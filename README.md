@@ -8,5 +8,5 @@ Housing Sale Price and Complaint Analysis
 Using Tableau, Spark Scala, and Hive
 
 
-Sales Dataset| https://data.cityofnewyork.us/City-Government/NYC-Citywide-Annualized-Calendar-Sales-Update/w2pb-icbu
+Sales Dataset| https://data.cityofnewyork.us/City-Government/NYC-Citywide-Annualized-Calendar-Sales-Update/w2pb-icbu <br/>
 Complaints Dataset| https://data.cityofnewyork.us/Housing-Development/DOB-Complaints-Received/eabe-havv
